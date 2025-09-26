@@ -17,3 +17,4 @@ htmlcov/
 *.cover
 *.db
 .qodo/
+.DS_Store
